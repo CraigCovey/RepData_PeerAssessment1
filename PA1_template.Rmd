@@ -4,7 +4,8 @@ author: "Craig Covey"
 date: "February 3, 2016"
 output: html_document
 ---
-
+Reproducible Research - Project 1
+=================================
 
 ##**Loading and preprocessing the data**##
 
